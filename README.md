@@ -1,5 +1,5 @@
 
-<img src="[https://media.licdn.com/dms/image/v2/D5616AQHD6cJxTxQqsA/profile-displaybackgroundimage-shrink_350_1400/B56ZUuGsGKHEAc-/0/1740235263491?e=1745452800&v=beta&t=gs6KCWUYFuC_VxPLS_G1XwO23_y8Fa8fRMLMp_Kvgho](https://postimg.cc/QVCWtp2h)">
+<img src="[[https://media.licdn.com/dms/image/v2/D5616AQHD6cJxTxQqsA/profile-displaybackgroundimage-shrink_350_1400/B56ZUuGsGKHEAc-/0/1740235263491?e=1745452800&v=beta&t=gs6KCWUYFuC_VxPLS_G1XwO23_y8Fa8fRMLMp_Kvgho](https://postimg.cc/QVCWtp2h)](https://i.postimg.cc/h4b82sMz/Purple-Modern-Web-Developer-Linked-In-Background-Photo-1.png)">
 
 <h1 align="center">Hi 👋, I'm Pritom Saha</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
